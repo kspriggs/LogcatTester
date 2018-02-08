@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LogcatTester</string>
+    <string name="action_settings">Settings</string>
+    <string name="Logging_On">Stop Logging</string>
+    <string name="Logging_Off">Start Logging</string>
+
+    <string name="saved_logamount">savedlogamount</string>
+    <string name="saved_logdelay">savedlogdelay</string>
+</resources>
